@@ -3,7 +3,7 @@
 
 [[file:perfil.jpg]]
 * Repositories that are worth looking at
-  + [[https:github.com/thiagotps/emacs_config][My personal emacs setup]]
+  + [[https://github.com/thiagotps/emacs_config][My personal emacs setup]]
 * Interests 
   + Pure mathematics
   + Competitive programming 
