@@ -1,0 +1,14 @@
+#+TITLE: Thiago T. P. Silva
+#+SETUPFILE: theme-readtheorg.setup
+
+[[file:perfil.jpg]]
+* Repositories that are worth looking at
+  + [[https:github.com/thiagotps/emacs_config][My personal emacs setup]]
+  + [[https:github.com/thiagotps/hyperreals][2019 Imagine CUP project]]
+* Interests 
+  + Pure mathematics
+  + Competitive programming 
+  + Unix-like operating systems, shell scripts, and others tech stuff
+* About
+  + *Email*: thiagoteodoro501@gmail.com
+  + Student at the CEFET-RJ, in the computer engineering course.
