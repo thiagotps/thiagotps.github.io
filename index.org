@@ -3,7 +3,6 @@
 
 [[file:perfil.jpg]]
 * Repositories that are worth looking at
-  + [[https://github.com/thiagotps/emacs_config][My personal emacs setup]]
   + [[https://github.com/thiagotps/xdcc][A minimal XDCC file downloader written in python3]]
   + [[https://github.com/thiagotps/lmscpp][fast exact expectation analysis of the LMS adaptive filtering (C++)]]
   + [[https://github.com/thiagotps/sgg][Simple Graph Generator]]
@@ -12,5 +11,9 @@
   + Competitive programming 
   + Unix-like operating systems, shell scripts, and others tech stuff
 * About
-  + *Email*: thiagoteodoro501@gmail.com
-  + Student at the CEFET-RJ, in the computer engineering course.
++ Student at the CEFET-RJ, in the computer engineering course.
+* Contact
++ [[mailto:thiagoteodoro501@gmail.com][Email]]
++ [[https://www.researchgate.net/profile/Thiago_Teodoro_Pereira_Silva][ResearchGate]]
++ [[http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2404074H7&tokenCaptchar=03AGdBq24ZgK_J1UyylnYNVVYNTH4S9KNK8Lzn6WZiSpGN0vR-mTwflqW3vPcrLWibFMEM5RnewnPP0wp8QJh6oNyIHr6Hy0a5H_GGkvXrVzoIkInF-2ARiM4ikosIGPArN_9g3rd0wVY_VTMvIpQZst2HOEwKOgRYjSG_kCjpGvfAvUpHuN0NfXqjceWBCfy5xj0m03JEPGoKFVHuoNx_nU367aTk5QgJj5ciQCxfLlR-Y0Uo_gMU_i6kcg_9ZSvZTdFfPpcF95C2oSiagkOPYbq_IO8ksBrt2hvhVMpAbOFcUZAQIfT8Z0AarY2ZZdUdrCB0tKtuiZ4Vtg6Q51aJQAqpqUfoV7IVZ_RHzb6DkAh33DhIrKkOkXNmHGXb6tAGJFK24ZJstKrpsXysSW6oey-hlmoYHgi5EjchCYCMKSh-PBW441MVDZTkktZ9GDjnfsGzitDdkQW4mZUB_Vw_heTnkyMOkLWjuKqFxzthvxJAURj07l-nh7qs2OJwuux3j9jLUOnv65c7YKPb6gGbEO19XkY_jAkoz3IhQq5nr8YTmbtlCnXykok][Lattes]]
++ [[https://github.com/thiagotps][GitHub]]
