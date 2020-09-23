@@ -4,6 +4,9 @@
 [[file:perfil.jpg]]
 * Repositories that are worth looking at
   + [[https://github.com/thiagotps/emacs_config][My personal emacs setup]]
+  + [[https://github.com/thiagotps/xdcc][A minimal XDCC file downloader written in python3]]
+  + [[https://github.com/thiagotps/lmscpp][fast exact expectation analysis of the LMS adaptive filtering (C++)]]
+  + [[https://github.com/thiagotps/sgg][Simple Graph Generator]]
 * Interests 
   + Pure mathematics
   + Competitive programming 
