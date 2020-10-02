@@ -58,7 +58,7 @@ main {
     width: 30px;
     height: 12px;
     margin-right: 5px;
-    background: url("http://buscatextual.cnpq.br/buscatextual/images/v2/ico_doi.gif") no-repeat;
+    background: url("lattes/ico_doi.gif") no-repeat;
 }
 
 .doi:hover {
