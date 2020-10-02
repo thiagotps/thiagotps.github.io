@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+}
+
+html {
+    font-family: "Roboto", sans-serif;
+    color: rgba(0,0,0,0.8);
+    background-color: #fafafa;
+}
+
+/* Awsome fonts style */
+
+*.fa, *.fas, *.fab {
+    font-size: 250%;
+    color: rebeccapurple;
+}
+
+
+.fas:hover, .fa:hover, .fas:hover, .fab:hover {
+    color: purple;
+}
+
+/* Header Style */
+
+header{
+    background-color: lightblue;
+    color: white;
+    /* text-align: center; */
+}
+
+header > h1 {
+    margin-top: 0;
+    padding-left: 10%;
+}
+
+/* Main Style */
+
+main {
+    line-height: 1.25;
+    font-size: 18px;
+}
+
+main {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#perfil {
+    display: inline-block;
+    float: right;
+    max-width: 50%;
+    border-radius: 30px;
+}
+
+.doi::before {
+    content: "";
+    display: inline-block;
+    width: 30px;
+    height: 12px;
+    margin-right: 5px;
+    background: url("http://buscatextual.cnpq.br/buscatextual/images/v2/ico_doi.gif") no-repeat;
+}
+
+.doi:hover {
+}
+
+/* Footer Style */
+
+footer {
+    margin-top: 100px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+}
+
+.contact > li {
+    list-style-type: none;
+    margin: 0 1em;
+}
+
+a:hover {
+    text-decoration-line: none;
+}
